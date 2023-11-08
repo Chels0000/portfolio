@@ -10,7 +10,7 @@ I hold a background in sculplture and jewerly/metals design. I'm a practicing st
 # What I hope to Learn
 Upon graduation I hope to work at the intersection of art and economic development. Through this course I seek to learn how to effectively compile and visually render engaging charts and graphs. I also enjoy learning about how humans take in and disect information as it informs how society interprets and retains information, which is applicable to various areas of life. e
 
-# Portfolio
+# Examples
 Visualizing Government Debt Using Tableau
 
 Final Project
