@@ -13,7 +13,7 @@ Upon graduation I hope to work at the intersection of art and economic developme
 
 # Examples
 Data Visualization 2
-<iframe src="https://data.oecd.org/chart/7faA" width="1000" height="750" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7faA" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+<iframe src="https://data.oecd.org/chart/7faQ" width="1000" height="750" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7faQ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 Visualizing Government Debt Using Tableau
 
