@@ -1,4 +1,4 @@
-|[home page](https://chels0000.github.io/portfolio/) | [visualizing debt](Data Vis 2)
+|[home page](https://chels0000.github.io/portfolio/) | [visualizing debt](DataVis2)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University!
