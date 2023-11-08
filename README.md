@@ -1,3 +1,5 @@
+|[home page](https://chels0000.github.io/portfolio/)
+
 # Portfolio
 This is my public portfolio for Telling Stories with Data at Carnegie Mellon University!
 
